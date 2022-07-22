@@ -207,7 +207,7 @@ class Home extends React.Component<{}> {
           <div className='w-full h-[100vh] '>
             <div className='w-full md:w-[60%] h-full text-white font-medium flex justify-center items-center'>
               <div>
-                <div className='text-32 md:text-45 py-8 text-center md:text-left'>Hiroki Ito1111</div>
+                <div className='text-32 md:text-45 py-8 text-center md:text-left'>Hiroki Ito</div>
                 <div className='text-lg md:text-36 pb-8 text-center md:text-left'>7+ Years of hands-on experience<br/>in software development</div>
                 <div className='text-36 p-8 text-center'>
                   <Link href={'/contact'}>
