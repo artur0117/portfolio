@@ -9,19 +9,19 @@ const Footer = ({}) => {
   return (
     <div className="Footer bg-black border-t border-dashed w-full ">
       {/* <div className='w-full flex justify-center items-center text-white w-full h-16'>
-        <Link href={"#"}>
+        <Link href={"#contact"}>
           <a className='h-full md:px-8' onClick={()=>sendEmail()}><FaMailBulk className='w-full h-full p-4 hover:p-3'/></a>
         </Link>
-        <Link href={"https://join.skype.com/invite/xZi9LkzgQzuG"}>
+        <Link href={"https://join.skype.com/invite/kRn33zlJruIU"}>
           <a target="_blank" className='h-full md:px-8'><FaSkype className='w-full h-full p-4 hover:p-3'/></a>
         </Link>
-        <Link href={"https://github.com/perfectdev000"}>
+        <Link href={"https://github.com/cool725"}>
           <a target="_blank" className='h-full md:px-8'><FaGithub className='w-full h-full p-4 hover:p-3'/></a>
         </Link>
-        <Link href={"https://discord.gg/YgNKvera"}>
+        <Link href={"https://discord.com/invite/cool725#6603"}>
           <a target="_blank" className='h-full md:px-8'><FaDiscord className='w-full h-full p-4 hover:p-3'/></a>
         </Link>
-        <Link href={"#"}>
+        <Link href={"https://t.me/cool725"}>
           <a target="_blank" className='h-full md:px-8'><FaTelegram className='w-full h-full p-4 hover:p-3'/></a>
         </Link>
         <Link href={"#"}>
